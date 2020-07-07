@@ -32,7 +32,7 @@ let resumeData = {
         },
         {
             "title": "Edge Detection",
-            "link": "https://gitlab.com/sandeshnimat/self-attention-gan",
+            "link": "https://gitlab.com/sandeshnimat/edge-detection",
             "image": "img-3.jpg",
             "animation": "fadeInTop"
         }
@@ -52,7 +52,7 @@ let resumeData = {
         },
         {
             "color": "color-5",
-            "title": "Bachelor of Engineering in E&TC at Pune UniversitySoftware Developer at Accenture",
+            "title": "Bachelor of Engineering in E&TC at Pune University",
             "duration": "2013-2017",
             "details": "I completed my undergrad education in Electronics and Telecommunication. I have taken courses like DSA, OOPs, Computer Networks, IOT, Digital Image Processing over the years and have better understanding of these subjects."
         }
